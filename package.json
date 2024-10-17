@@ -1,0 +1,22 @@
+{
+  "name": "server-echo",
+  "version": "1.0.0",
+  "description": "learning about websockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammarGamal123/websocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ammarGamal123/websocket/issues"
+  },
+  "homepage": "https://github.com/ammarGamal123/websocket#readme",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
